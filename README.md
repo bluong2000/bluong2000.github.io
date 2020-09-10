@@ -11,6 +11,9 @@ In addition to my engineering involvement, I am also part of the Rutgers Tennis 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+ ![Tux, the Linux mascot](/assets/images/tux.png)
+
+
 ```markdown
 Syntax highlighted code block
 
