@@ -1,3 +1,7 @@
+# Projects
+
+[View my github here](https://github.com/bluong2000)
+
 ## Brandon Luong
 
 Welcome to my Website!
