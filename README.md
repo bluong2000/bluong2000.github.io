@@ -9,16 +9,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I am a junior at the Rutgers Honors College double majoring in Electrical Engineering and Computer Science. I am the Society Affairs Committee Chair in the RutgersEngineering Governing Council, a Rutgers Engineering Ambassador, and a Camden project lead in the Rutgers Engineers Without Borders Chapter.
 In addition to my engineering involvement, I am also part of the Rutgers Tennis Team. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Experience in C, Python, Java, Matlab, and Ocaml
 
-![Rutgers R](https://scarletknights.com/images/2018/5/21/RU_generic.jpg)
+![Rutgers R](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
 
 
 ```markdown
 Syntax highlighted code block
 
-# Hello
-## World
+# Header 1
+## Header 2
 ### Header 3
 
 - Bulleted
