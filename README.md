@@ -13,9 +13,17 @@ Welcome to my Website!
 >I am a junior at the Rutgers Honors College double majoring in Electrical Engineering and Computer Science. I am the Society Affairs Committee Chair in the Rutgers Engineering >Governing Council, a Rutgers Engineering Ambassador, and the Camden Project and Software Lead in the Rutgers Engineers Without Borders Chapter.
 >In addition to my engineering involvement, I am also part of the Rutgers Tennis Team. 
 
+### Languages
+
 >Experience in C, Python, Java, Matlab, and Ocaml
 
->Interests: Data Science, Software Engineering, Machine Learning, Deep Learning, Robotics
+### Relevant Coursework
+
+> Operating Systems, Data Structures, Algorithms, Computer Architecture, Network Security, Differential Equations 
+
+### Interests
+> Data Science, Software Engineering, Machine Learning, Deep Learning, Robotics
+
 
 ![Tech background](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
 
