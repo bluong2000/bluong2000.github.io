@@ -1,6 +1,7 @@
 # Projects
 
-[View my github here](https://github.com/bluong2000)
+[Github](https://github.com/bluong2000)
+[Linkedin](www.linkedin.com/in/brandon-luong-053910185)
 
 ## Brandon Luong
 
@@ -12,6 +13,8 @@ I am a junior at the Rutgers Honors College double majoring in Electrical Engine
 In addition to my engineering involvement, I am also part of the Rutgers Tennis Team. 
 
 Experience in C, Python, Java, Matlab, and Ocaml
+
+Interests: Data Science, Software Engineering, Machine Learning, Deep Learning, Robotics
 
 ![Rutgers R](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
 
