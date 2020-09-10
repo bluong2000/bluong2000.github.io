@@ -1,6 +1,7 @@
 # Projects
 
 [Github](https://github.com/bluong2000)
+
 [Linkedin](www.linkedin.com/in/brandon-luong-053910185)
 
 ## Brandon Luong
@@ -16,7 +17,7 @@ Experience in C, Python, Java, Matlab, and Ocaml
 
 Interests: Data Science, Software Engineering, Machine Learning, Deep Learning, Robotics
 
-![Rutgers R](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
+![Tech background](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
 
 
 ```markdown
