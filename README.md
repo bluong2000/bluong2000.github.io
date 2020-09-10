@@ -11,7 +11,7 @@ In addition to my engineering involvement, I am also part of the Rutgers Tennis 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
- ![Tux, the Linux mascot](/assets/images/tux.png)
+![Rutgers R](https://scarletknights.com/images/2018/5/21/RU_generic.jpg)
 
 
 ```markdown
