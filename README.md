@@ -4,6 +4,9 @@
 
 [Linkedin](www.linkedin.com/in/brandon-luong-053910185)
 
+[Resume](https://github.com/bluong2000/bluong2000.github.io/raw/master/Brandon%20Luong%20Resume%209-10-20.pdf)
+
+
 # Contacts
 
 Email: bl575@rutgers.edu
