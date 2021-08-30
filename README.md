@@ -9,7 +9,7 @@
 
 # Contacts
 
-Email: bl575@rutgers.edu
+Email: 2000bluong@gmail.com
 
 Phone: 862-251-9828
 
@@ -23,16 +23,16 @@ Welcome to my Website!
 >Governing Council, a Rutgers Engineering Ambassador, and the Camden Project and Software Lead in the Rutgers Engineers Without Borders Chapter.
 >In addition to my engineering involvement, I am also part of the Rutgers Tennis Team. 
 
-### Languages
+### Skills
 
->Experience in C, Python, Java, Matlab, and Ocaml
+>Experience in C, Python, Java, Matlab, AWS, and Ocaml
 
 ### Relevant Coursework
 
 > Operating Systems, Data Structures, Algorithms, Computer Architecture, Network Security, Differential Equations 
 
 ### Interests
-> Data Science, Software Engineering, Machine Learning, Deep Learning, Robotics
+> Software Engineering, Data Science, Machine Learning, Deep Learning, Robotics
 
 
 ![Tech background](https://i.ytimg.com/vi/5-LyRjHlRgQ/maxresdefault.jpg)
