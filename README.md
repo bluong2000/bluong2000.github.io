@@ -4,8 +4,7 @@
 
 [Linkedin](http://www.linkedin.com/in/bluong2000)
 
-[Resume](https://github.com/bluong2000/bluong2000.github.io/raw/master/Brandon_Luong_Resume_9-21-21.pdf)
-
+[Resume](https://github.com/bluong2000/bluong2000.github.io/blob/ab2b10d3a5f9caefe96524947f226a040dc9c2c7/Brandon%20Luong%20Resume%209-21-21.pdf)
 
 # Contacts
 
