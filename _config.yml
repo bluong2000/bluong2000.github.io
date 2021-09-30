@@ -1,5 +1,8 @@
-theme: 
-title: Welcome to Brandon Luong's website! Here you can learn all about me!
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+ 
+title: Welcome to Brandon Luong's website! 
 description: Feel free to learn about me and follow what I have been working on...
 url: "/"
 email: 2000bluong@gmail.com
